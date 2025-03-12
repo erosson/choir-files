@@ -1,4 +1,4 @@
-# Choirtube
+# choir-files
 
 Generate consistently-formatted files for my choir practice. Used for Youtubeifying music of various formats.
 
