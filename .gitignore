@@ -1,0 +1,6 @@
+input/*
+!input/.placeholder
+output/
+assets/*
+!assets/.placeholder
+.tmp/
