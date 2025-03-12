@@ -7,6 +7,7 @@ main() {
 	TMP="./.tmp"
 	rm -rf "$TMP"
 	mkdir -p "$TMP"
+	mkdir -p "./output"
 	ls ./input > ./output/input.txt
 	for IN in ./input/*; do
 		# bash sorcery. https://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash
