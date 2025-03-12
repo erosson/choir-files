@@ -2,7 +2,11 @@
 
 Generate consistently-formatted files for my choir practice. Used for Youtubeifying music of various formats.
 
-I like practicing music with the piano/the rest of the choir in the background. Youtube's a surprisingly good music player for this! You can easily link to chapter markers, instead of guessing what minute/second each section starts. You can use the create-clip interface to loop one section, to drill it repeatedly (without actually creating a clip).
+I like practicing music with the piano/the rest of the choir in the background. Youtube's a surprisingly good music player for this:
+
+* You can easily link to chapter markers, instead of guessing what minute/second each section starts
+* You can use the create-clip interface to loop one section, to drill it repeatedly (without actually creating a clip)
+* It's easy to share with others in the choir; everyone uses Youtube and it's free
 
 This repository deliberately does not name the choir I use it for. Hopefully this makes the tool more reusable, and also this repository is public and I like my privacy.
 
